@@ -1,6 +1,6 @@
-# 🚀 MCP-AWS: AI Agent for AWS EC2 Management
+# 🚀 Multi-Agent System: A2A & MCP Integration POC
 
-Welcome to **MCP-AWS**, a simple yet powerful AI-driven application that leverages OpenAI Agents and MCP servers to manage AWS EC2 instances. This app allows you to provision and terminate EC2 instances using natural language commands in your terminal. 🖥️✨
+POC: Integrating A2A, MCP, and OpenAI Agents for AWS Tasks 🖥️✨
 
 
 ---
