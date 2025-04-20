@@ -47,43 +47,32 @@ The MCP server is a custom server with two tools:
     - `AWS_REGION`
 
 ### 🏃‍♂️ Running the App
-1. Clone the repository:
+1. Clone the repository at the root:
      ```bash
      git clone https://github.com/anirban1592/google_openai_mcp.git
-     cd mcp-aws
+     cd google_openai_mcp
      ```
 2. Create `.env` file as shown in prerequisites
 
-#### Option 1: Docker Setup (Recommended)
-
-3. Build the Docker image:
-     ```bash
-     docker image build -t my-mcp .
-     ```
-4. Run the container:
-     ```bash
-     docker container run -it my-mcp
-     ```
-
-#### Option 2: Local Setup
-
-3. Create and activate virtual environment:
-     ```bash
-     pip install uv
-     uv venv .venv
-     # Windows
-     .venv\Scripts\activate
-     # Unix/MacOS
-     source .venv/bin/activate
-     ```
-
-
-
-4. Run the application:
+3. Run the remote agent example:
      ```bash
      cd openai-agent/
-     uv run agent.py
+     uv run .     
      ```
+3. Clone the A2A client code(by google) at the root dir:
+     ```bash
+     git clone https://github.com/google/A2A.git
+     cd demo/ui
+     ```
+4. Create an environment file with your API key or enter it directly in the UI when prompted:
+     ```bash
+     echo "GOOGLE_API_KEY=your_api_key_here" >> .env
+     ```
+5. Run the front end example:
+     ```bash
+    uv run main.py
+     ```
+6. Refer to the attached video to see it in action
 
 ### 💬 Using the AI Agent
 
