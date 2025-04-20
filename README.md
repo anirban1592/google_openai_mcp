@@ -16,9 +16,9 @@ Watch the demo video to see MCP-AWS in action! 🚀
 
 ## 🌟 Features
 
-1. **Provision EC2 Instances**: Just tell the AI agent to create an EC2 instance, and it will handle the rest, providing you with the instance ID. 🛠️
-2. **Terminate EC2 Instances**: Provide the instance ID, and the agent will terminate the instance for you. ❌
-3. **MCP Server Integration**: Explore how custom MCP servers can be created and integrated with OpenAI Agents SDK. 🧩
+🚀 **Seamless Protocol Integration**: Demonstrates the successful integration of the Agent-to-Agent (A2A) protocol with a Model Context Protocol (MCP) server for robust multi-agent communication.
+🧠 **Leverages OpenAI Agents SDK**: Built upon the powerful OpenAI Agents SDK to create intelligent agents capable of understanding and acting on user prompts.
+☁️ **Automated Cloud Management**: Enables direct provisioning and termination of AWS EC2 instances through simple user interactions, showcasing practical tool execution via the MCP.
 
 ---
 
