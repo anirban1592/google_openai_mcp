@@ -49,7 +49,7 @@ The MCP server is a custom server with two tools:
 ### 🏃‍♂️ Running the App
 1. Clone the repository:
      ```bash
-     git clone https://github.com/anirban1592/mcp-server-aws.git
+     git clone https://github.com/anirban1592/google_openai_mcp.git
      cd mcp-aws
      ```
 2. Create `.env` file as shown in prerequisites
