@@ -16,9 +16,11 @@ Watch the demo video to see MCP-AWS in action! 🚀
 
 ## 🌟 Features
 
-🚀 **Seamless Protocol Integration**: Demonstrates the successful integration of the Agent-to-Agent (A2A) protocol with a Model Context Protocol (MCP) server for robust multi-agent communication.
-🧠 **Leverages OpenAI Agents SDK**: Built upon the powerful OpenAI Agents SDK to create intelligent agents capable of understanding and acting on user prompts.
-☁️ **Automated Cloud Management**: Enables direct provisioning and termination of AWS EC2 instances through simple user interactions, showcasing practical tool execution via the MCP.
+1. 🚀 **Seamless Protocol Integration**: Demonstrates the successful integration of the Agent-to-Agent (A2A) protocol with a Model Context Protocol (MCP) server for robust multi-agent communication.
+
+2. 🧠 **Leverages OpenAI Agents SDK**: Built upon the powerful OpenAI Agents SDK to create intelligent agents capable of understanding and acting on user prompts.
+
+3. ☁️ **Automated Cloud Management**: Enables direct provisioning and termination of AWS EC2 instances through simple user interactions, showcasing practical tool execution via the MCP.
 
 ---
 
