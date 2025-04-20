@@ -9,7 +9,7 @@ Welcome to **MCP-AWS**, a simple yet powerful AI-driven application that leverag
 
 Watch the demo video to see MCP-AWS in action! 🚀
 
-[![Watch the Demo][([https://img.youtube.com/vi/nT6w48w03NI/0.jpg)](https://youtu.be/nT6w48w03NI](https://youtu.be/FeGmKmsYcRc))](https://youtu.be/FeGmKmsYcRc)
+[![Watch the Demo][(https://youtu.be/FeGmKmsYcRc)
 
 ---
 
