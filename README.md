@@ -9,7 +9,7 @@ POC: Integrating A2A, MCP, and OpenAI Agents for AWS Tasks 🖥️✨
 
 Watch the demo video to see MCP-AWS in action! 🚀
 
-[![Watch the Demo](https://img.youtube.com/vi/nT6w48w03NI/0.jpg)](https://youtu.be/FeGmKmsYcRc)
+[![Watch the Demo](https://img.youtube.com/vi/FeGmKmsYcRc/0.jpg)](https://youtu.be/FeGmKmsYcRc)
 
 ---
 
